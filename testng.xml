@@ -21,7 +21,7 @@
       <class name="UITest.GUT.VerifyingGmailLoginFunctionUI"/>
     </classes>
   </test>
-      <test  name="DockerTitle">
+      <test  name="DockerTitles">
     <classes>
       <class name="UITest.GUT.HubDockerTitleUITest"/>
     </classes>
