@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-08T09:44:44 CET" name="Suite" finished-at="2022-03-08T09:45:20 CET" duration-ms="35211">
+    <groups>
+    </groups>
+    <test started-at="2022-03-08T09:44:44 CET" name="GoogleLoginCheck" finished-at="2022-03-08T09:44:53 CET" duration-ms="8553">
+      <class name="UITest.GUT.GoogleLoginCheckUI">
+        <test-method signature="GoogleLoginCheck()[pri:0, instance:UITest.GUT.GoogleLoginCheckUI@5c909414]" started-at="2022-03-08T09:44:44 CET" name="GoogleLoginCheck" finished-at="2022-03-08T09:44:53 CET" duration-ms="8516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoogleLoginCheck -->
+      </class> <!-- UITest.GUT.GoogleLoginCheckUI -->
+    </test> <!-- GoogleLoginCheck -->
+    <test started-at="2022-03-08T09:44:53 CET" name="GoogleUrlCheck" finished-at="2022-03-08T09:44:55 CET" duration-ms="1542">
+      <class name="UITest.GUT.GoogleUrlCheck">
+        <test-method signature="GoogleUrl()[pri:0, instance:UITest.GUT.GoogleUrlCheck@6a28ffa4]" started-at="2022-03-08T09:44:53 CET" name="GoogleUrl" finished-at="2022-03-08T09:44:55 CET" duration-ms="1541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoogleUrl -->
+      </class> <!-- UITest.GUT.GoogleUrlCheck -->
+    </test> <!-- GoogleUrlCheck -->
+    <test started-at="2022-03-08T09:44:55 CET" name="SearchPicture" finished-at="2022-03-08T09:45:01 CET" duration-ms="6078">
+      <class name="UITest.GUT.SearchWithPictureGoogleUITest">
+        <test-method signature="SearchPicture()[pri:0, instance:UITest.GUT.SearchWithPictureGoogleUITest@31d7b7bf]" started-at="2022-03-08T09:44:55 CET" name="SearchPicture" finished-at="2022-03-08T09:45:01 CET" duration-ms="6077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchPicture -->
+      </class> <!-- UITest.GUT.SearchWithPictureGoogleUITest -->
+    </test> <!-- SearchPicture -->
+    <test started-at="2022-03-08T09:45:01 CET" name="VerifyGmail" finished-at="2022-03-08T09:45:14 CET" duration-ms="13691">
+      <class name="UITest.GUT.VerifyingGmailLoginFunctionUI">
+        <test-method signature="VerifyGmail()[pri:0, instance:UITest.GUT.VerifyingGmailLoginFunctionUI@5e82df6a]" started-at="2022-03-08T09:45:01 CET" name="VerifyGmail" finished-at="2022-03-08T09:45:14 CET" duration-ms="13690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyGmail -->
+      </class> <!-- UITest.GUT.VerifyingGmailLoginFunctionUI -->
+    </test> <!-- VerifyGmail -->
+    <test started-at="2022-03-08T09:45:14 CET" name="DockerTitle" finished-at="2022-03-08T09:45:20 CET" duration-ms="5314">
+      <class name="UITest.GUT.HubDockerTitleUITest">
+        <test-method signature="HubDockerTitle()[pri:0, instance:UITest.GUT.HubDockerTitleUITest@31368b99]" started-at="2022-03-08T09:45:14 CET" name="HubDockerTitle" finished-at="2022-03-08T09:45:20 CET" duration-ms="5313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HubDockerTitle -->
+      </class> <!-- UITest.GUT.HubDockerTitleUITest -->
+    </test> <!-- DockerTitle -->
+  </suite> <!-- Suite -->
+</testng-results>

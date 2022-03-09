@@ -26,5 +26,7 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/enisw/OneDrive/Skrivbord/testng-7.4.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/enisw/OneDrive/Skrivbord/webdriver-testng-archetype-4.5.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

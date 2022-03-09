@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test  name="GoogleLoginCheck">
+    <classes>
+      <class name="UITest.GUT.GoogleLoginCheckUI"/>
+    </classes>
+  </test>
+    <test  name="GoogleUrlCheck">
+    <classes>
+      <class name="UITest.GUT.GoogleUrlCheck"/>
+    </classes>
+  </test>
+    <test  name="SearchPicture">
+    <classes>
+      <class name="UITest.GUT.SearchWithPictureGoogleUITest"/>
+    </classes>
+  </test>
+    <test  name="VerifyGmail">
+    <classes>
+      <class name="UITest.GUT.VerifyingGmailLoginFunctionUI"/>
+    </classes>
+  </test>
+      <test  name="DockerTitle">
+    <classes>
+      <class name="UITest.GUT.HubDockerTitleUITest"/>
+    </classes>
+  </test>
+</suite> <!-- Suite -->
